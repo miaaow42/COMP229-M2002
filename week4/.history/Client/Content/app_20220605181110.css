@@ -1,0 +1,43 @@
+/* custom CSS goes here */
+body{
+    font-family: "Montserrat";
+  }
+
+.welcome-messages {
+    font-family: 'Montserrat', sans-serif;
+    height: auto;
+    background-color: rgb(255, 255, 255);
+    padding: 20% 0 0 10%;
+}
+
+.cover-img {
+    max-width: 100%; 
+    height: auto;
+}
+
+
+.judy-name {
+    font-family: 'Pacifico', cursive;
+}
+
+.project-button {
+    position: relative;
+    top: 1%;
+    margin: 0 3rem 0 0;
+    border-radius: 0%;
+}
+
+.service-button {
+    position: relative;
+    top: 1%;
+    margin: 0 3rem 0 0;
+    border-radius: 0%;
+}
+
+.project-button:hover {
+    border-color: antiquewhite;
+}
+
+.service-button:hover {
+    border-color: black;
+}

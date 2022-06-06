@@ -1,0 +1,5 @@
+/* custom CSS goes here */
+.nav-bgcolor:active{
+    color: aliceblue;
+    background-color: #555;
+}
